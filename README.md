@@ -13,5 +13,5 @@ My website: https://arshadsk.vercel.app
 ### To create your own website :
 
 > Fork & Clone the repo\
-> Modify the template according to your profile and needs
+> Modify the template according to your profile and needs\
 > Deploy using GitHub pages or Vercel
